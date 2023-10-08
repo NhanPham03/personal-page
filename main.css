@@ -38,7 +38,7 @@ h1 {
 }
 .preview-image {
 	width: auto;
-	height: 500px;
+	height: 100px;
 	cursor: pointer;
 }
 .preview-image:hover {
