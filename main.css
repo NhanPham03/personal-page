@@ -37,8 +37,8 @@ h1 {
 	text-align: center;
 }
 .preview-image {
-	width: 70%;
-	height: auto;
+	width: auto;
+	height: 500px;
 	cursor: pointer;
 }
 .preview-image:hover {
